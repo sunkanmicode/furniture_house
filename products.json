@@ -1,0 +1,68 @@
+{
+    "items":[
+        {
+            "sys": {"id": "1"},
+            "fields":{
+                "title": "magic chairs",
+                "price":10.99,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn3.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "2"},
+            "fields":{
+                "title": "dinning set ",
+                "price":20.99,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn4.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "3"},
+            "fields":{
+                "title": "dinning set soft touch",
+                "price":8.99,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn5.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "4"},
+            "fields":{
+                "title": "pure soft",
+                "price":10.99,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn7.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "5"},
+            "fields":{
+                "title": "Roman sofa",
+                "price":120.00,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn13.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "6"},
+            "fields":{
+                "title": "pure soft",
+                "price":20.09,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn10.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "7"},
+            "fields":{
+                "title": "pure soft",
+                "price":55,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn11.jpg" } } }
+            }
+        },
+        {
+            "sys": {"id": "8"},
+            "fields":{
+                "title": "Solid solfa",
+                "price":40,
+                "image":{ "fields":{ "file":{ "url":"./pic/furn12.jpg" } } }
+            }
+        }
+    ]
+}
